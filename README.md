@@ -1,1 +1,2 @@
-Collection of DL exercises, examples, code, etc..
+# Deep-Learning
+Collection of DL projects, examples, exercises, etc..
