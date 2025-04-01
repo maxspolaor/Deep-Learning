@@ -1,2 +1,2 @@
-# Deep-Learning
-Collection of DL projects, examples, exercises, etc..
+# PyTorch
+Collection of PyTorch projects, examples, exercises, etc..
