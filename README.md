@@ -1,2 +1,2 @@
 # PyTorch
-Collection of DL projects, examples, exercises, etc..
+Collection of PyTorch-based projects, examples, exercises, etc..
